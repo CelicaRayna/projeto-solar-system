@@ -4,6 +4,7 @@ import Title from './Title';
 class SolarSystem extends React.Component {
   render() {
     const headline = 'Planetas';
+
     return (
       <div data-testid="solar-system">
         <Title headline={ headline } />

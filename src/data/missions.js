@@ -4,7 +4,7 @@ const INTERESTELAR = 'Espaço interestelar';
 
 const Missions = [
   {
-    name: 'Mariner 2',
+    name: 'Mariner  2',
     year: '1962',
     country: USA,
     destination: 'Vênus',
